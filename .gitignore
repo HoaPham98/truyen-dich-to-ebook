@@ -1,2 +1,3 @@
 /venv/
-novel_cache.sqlite
+*.sqlite
+/SpyXFamily
